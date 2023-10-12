@@ -8,7 +8,7 @@ GITHUB_BRANCH="main"       # Replace with the appropriate branch name
 if [ "$1" == "push" ]; then
     # Push (upload) files to GitHub repository
     git add .
-    git commit -m "Update files"
+    git commit -m $2
     git push origin $GITHUB_BRANCH
     echo "Files pushed to GitHub repository."
 elif [ "$1" == "pull" ]; then
