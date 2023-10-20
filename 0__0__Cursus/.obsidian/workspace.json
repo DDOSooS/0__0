@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "71d18d738d583546",
+        "id": "8be66e9ece159a5f",
         "type": "tabs",
         "children": [
           {
-            "id": "055b2728c045a943",
+            "id": "bdeabcdae731fa3b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "2aa72e7f9896b76e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "c9b61c5797b68ee4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -27,6 +46,7 @@
       {
         "id": "67263f26d5167551",
         "type": "tabs",
+        "dimension": 69.73434535104364,
         "children": [
           {
             "id": "e9432ce839e187ae",
@@ -62,6 +82,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "79fbd1bc969b5d82",
+        "type": "tabs",
+        "dimension": 30.265654648956357,
+        "children": [
+          {
+            "id": "2b1994598e2e6266",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +109,7 @@
       {
         "id": "e8bb956d76b93d55",
         "type": "tabs",
+        "dimension": 62.428842504743834,
         "children": [
           {
             "id": "b2e0f99be92bf80e",
@@ -120,12 +156,36 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "98ddc4bbd836cce4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "4a349a43b2683511",
+        "type": "tabs",
+        "dimension": 37.571157495256166,
+        "children": [
+          {
+            "id": "9917c6422fe0d34c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -135,9 +195,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "055b2728c045a943",
-  "lastOpenFiles": []
+  "active": "c9b61c5797b68ee4",
+  "lastOpenFiles": [
+    "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+    "42Cursus/c/Why linked list doesn't waste memory spacr.md",
+    "42Cursus/c/Linkesd list",
+    "42Cursus/c",
+    "Azure Fundamentals  Describe cloud concepts",
+    "Untitled.canvas",
+    "2023-10-13.md",
+    "Excalidraw/Drawing 2023-10-13 01.17.11.excalidraw.md",
+    "Excalidraw",
+    "42Cursus"
+  ]
 }
