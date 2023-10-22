@@ -19,22 +19,16 @@
             "id": "2aa72e7f9896b76e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "c9b61c5797b68ee4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md"
+              }
             }
           },
           {
@@ -166,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "4a349a43b2683511",
@@ -185,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,17 +199,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c9b61c5797b68ee4",
+  "active": "2aa72e7f9896b76e",
   "lastOpenFiles": [
+    "42Cursus/c/Why linked list doesn't waste memory space.md",
     "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
-    "42Cursus/c/Why linked list doesn't waste memory spacr.md",
+    "Pasted image 20231022232440.png",
+    "2023-10-20.md",
+    "Excalidraw/Drawing 2023-10-20 04.56.29.excalidraw.md",
+    "Excalidraw",
     "42Cursus/c/Linkesd list",
     "42Cursus/c",
     "Azure Fundamentals  Describe cloud concepts",
     "Untitled.canvas",
     "2023-10-13.md",
     "Excalidraw/Drawing 2023-10-13 01.17.11.excalidraw.md",
-    "Excalidraw",
     "42Cursus"
   ]
 }
