@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8be66e9ece159a5f",
+        "id": "1455aaa9182c182a",
         "type": "tabs",
         "children": [
           {
-            "id": "bdeabcdae731fa3b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2aa72e7f9896b76e",
+            "id": "63e021d8b8de67af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+                "file": "github_cmd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+                "file": "github_cmd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+                "file": "github_cmd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md"
+                "file": "github_cmd.md"
               }
             }
           },
@@ -199,10 +190,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2aa72e7f9896b76e",
+  "active": "e9432ce839e187ae",
   "lastOpenFiles": [
-    "42Cursus/c/Why linked list doesn't waste memory space.md",
+    "20231022232440.png.md",
+    "Dragster.jpg.md",
+    "Pasted image 20231022232440.png.md",
+    "github_cmd.md",
     "42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+    "42Cursus/c/Why linked list doesn't waste memory space.md",
+    "Untitled.md",
     "Pasted image 20231022232440.png",
     "2023-10-20.md",
     "Excalidraw/Drawing 2023-10-20 04.56.29.excalidraw.md",

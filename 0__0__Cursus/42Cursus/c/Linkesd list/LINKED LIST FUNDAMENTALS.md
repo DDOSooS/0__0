@@ -9,7 +9,10 @@ A linked list is a set of dynamically allocated nodes, arranged in such a way th
 - Each **node** consists of two fields, <mark style="background: #FF5582A6;">the information stored </mark>in a linked list and a pointer that stores the address of its <mark style="background: #FF5582A6;">next node</mark>.
 - it does not waste memory space. [[Why linked list doesn't waste memory space]] 
 
-![[Pasted image 20231022232440.png]]
+![Drag Racing](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726162542/Linked-List-Data-Structure.png)  
+
+  
+Move along.
 
 *  Let's define a linked list node:
 
