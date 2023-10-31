@@ -16,3 +16,5 @@
     - If `NULL` is not implemented as zero in a particular environment (though it usually is), using `NULL` for memory zeroing could result in different behavior.
 
 In practice, while `NULL` is often zero in many C implementations,<mark style="background: #D2B3FFA6;"> it's considered a best practice to use `0` or `0x00` when you intend to clear or zero out memory. This ensures portability and clarity in your code</mark>, making it clear that you are setting memory to zero. If you want to represent a null pointer, then `NULL` is the correct choice. However, when you are working with memory manipulation and initialization, it's recommended to use integer literals like `0` to avoid any ambiguity or potential issues related to the use of `NULL`.
+
+

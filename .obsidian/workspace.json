@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEFERENCE BETWEEN 0 && NULL.md",
+                "file": "2023-10-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEFERENCE BETWEEN 0 && NULL.md",
+                "file": "2023-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEFERENCE BETWEEN 0 && NULL.md",
+                "file": "2023-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEFERENCE BETWEEN 0 && NULL.md"
+                "file": "2023-10-31.md"
               }
             }
           },
@@ -204,15 +203,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "096a3317ae1f042e",
+  "active": "4e4086e7708577c7",
   "lastOpenFiles": [
     "DEFERENCE BETWEEN 0 && NULL.md",
     "Fragmentation.md",
+    "README.md",
     "2023-10-31.md",
     "Untitled",
     "0__0__Cursus/42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
     "0__0__Cursus/42Cursus/c/Why linked list doesn't waste memory space.md",
-    "README.md",
     "0__0__Cursus/github_cmd.md"
   ]
 }
