@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "a4ab6b255f33e89a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1695c56e590e6a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295fb9390eeec1d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e4086e7708577c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEFERENCE BETWEEN 0 && NULL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d40feda0843a3225",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb561519736fe87b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee34478163589b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "096a3317ae1f042e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#memroy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5737d6520c6230c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8e3e94caa4041de",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "7488c259668633b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "22475a90a645a40e",
+        "type": "tabs",
+        "dimension": 64.99051233396584,
+        "children": [
+          {
+            "id": "86898eac488a9db1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DEFERENCE BETWEEN 0 && NULL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cff3fa8d95bf1e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DEFERENCE BETWEEN 0 && NULL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d973243a9cace863",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "60d594c7253bbb4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DEFERENCE BETWEEN 0 && NULL.md"
+              }
+            }
+          },
+          {
+            "id": "0f2f783fb3f5ca7a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a555091813dbc04",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6f377184ce9e762c",
+        "type": "tabs",
+        "dimension": 35.009487666034154,
+        "children": [
+          {
+            "id": "59f75c0833e31a4a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "096a3317ae1f042e",
+  "lastOpenFiles": [
+    "DEFERENCE BETWEEN 0 && NULL.md",
+    "Fragmentation.md",
+    "2023-10-31.md",
+    "Untitled",
+    "0__0__Cursus/42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+    "0__0__Cursus/42Cursus/c/Why linked list doesn't waste memory space.md",
+    "README.md",
+    "0__0__Cursus/github_cmd.md"
+  ]
+}
