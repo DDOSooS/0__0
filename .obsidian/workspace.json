@@ -4,22 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "e1695c56e590e6a8",
+        "id": "f042c88d74867287",
         "type": "tabs",
         "children": [
           {
-            "id": "295fb9390eeec1d5",
+            "id": "84371611a5d96838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-31.md",
+                "file": "2023-11-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62bbd493ec0b1125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52e300e165a95ac1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8fd49e0e15b17bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0__0__Cursus/42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16ffcfb0d94975e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STATIC LIBRARY VC DYNAMIC LIBRARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f766054e8c44e75f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEFERENCE BETWEEN 0 && NULL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#memroy",
+                "query": "#zer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-31.md",
+                "file": "STATIC LIBRARY VC DYNAMIC LIBRARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-31.md",
+                "file": "STATIC LIBRARY VC DYNAMIC LIBRARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-31.md"
+                "file": "STATIC LIBRARY VC DYNAMIC LIBRARY.md"
               }
             }
           },
@@ -156,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "6f377184ce9e762c",
@@ -175,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,16 +249,28 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "295fb9390eeec1d5",
+  "active": "16ffcfb0d94975e8",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "2023-10-31.md",
-    "DEFERENCE BETWEEN 0 && NULL.md",
-    "Fragmentation.md",
-    "README.md",
-    "Untitled",
     "0__0__Cursus/42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+    "STATIC LIBRARY VC DYNAMIC LIBRARY.md",
     "0__0__Cursus/42Cursus/c/Why linked list doesn't waste memory space.md",
-    "0__0__Cursus/github_cmd.md"
+    "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md",
+    "2023-11-05.md",
+    "Overlapping.md",
+    "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md",
+    "Here is all you need to know about File Descriptors in linux.md",
+    "2023-11-03.md",
+    "DEFERENCE BETWEEN 0 && NULL.md",
+    "2023-11-02.md",
+    "README.md",
+    "Excalidraw/Drawing 2023-11-02 19.10.59.excalidraw.md",
+    "2023-11-01.md",
+    "2023-10-31.md",
+    "0__0__Cursus/github_cmd.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "Fragmentation.md",
+    "Untitled"
   ]
 }

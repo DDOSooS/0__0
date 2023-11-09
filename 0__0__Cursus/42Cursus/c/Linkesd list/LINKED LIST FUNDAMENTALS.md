@@ -1,4 +1,4 @@
-## What is a Linked List?
+ ## What is a Linked List?
 
 ```
 A linked list is a set of dynamically allocated nodes, arranged in such a way that each node contains one value and one pointer. The pointer always points to the next member of the list. If the pointer is NULL, then it is the last node in the list.
@@ -23,3 +23,8 @@ typedef struct node {
 } node_t;
 ```
 
+
+---
+# NOTES 
+
+- in *Linked list* the first node of the list exist in the stack however the rest of the list are stored in the heap using malloc #c  #data_type #memory 
