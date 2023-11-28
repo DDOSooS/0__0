@@ -1,4 +1,4 @@
-1. **`NULL` as a Null Pointer**:
+		1. **`NULL` as a Null Pointer**:
     
     - In C, `NULL` is a special value that represents a null pointer, meaning it doesn't point to any valid memory location.
     - It is often used to indicate that a pointer variable doesn't currently reference an object in memory.
