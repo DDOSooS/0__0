@@ -1,20 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-06",
+      "path": "2023-12-06.md"
+    },
+    {
+      "basename": "Drawing 2023-12-05 18.36.44.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-05 18.36.44.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-11-03 19.09.05.excalidraw",
+      "path": "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md"
+    },
+    {
       "basename": "Drawing 2023-11-21 10.21.29.excalidraw",
       "path": "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md"
+    },
+    {
+      "basename": "variadic function",
+      "path": "variadic function.md"
+    },
+    {
+      "basename": "Mmemory Layout",
+      "path": "Excalidraw/Mmemory Layout.md"
+    },
+    {
+      "basename": "TYPE CASTING",
+      "path": "TYPE CASTING.md"
+    },
+    {
+      "basename": "github_cmd",
+      "path": "github_cmd.md"
+    },
+    {
+      "basename": "STATIC LIBRARY VC DYNAMIC LIBRARY",
+      "path": "STATIC LIBRARY VC DYNAMIC LIBRARY.md"
+    },
+    {
+      "basename": "MAKEFILES",
+      "path": "MAKEFILES.md"
+    },
+    {
+      "basename": "WHAT is UNICODE ?",
+      "path": "WHAT is UNICODE ?.md"
     },
     {
       "basename": "LINKED LIST FUNDAMENTALS",
       "path": "0__0__Cursus/42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md"
     },
     {
-      "basename": "Drawing 2023-11-01 13.11.01.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md"
+      "basename": "MY DICTIONARY",
+      "path": "MY DICTIONARY.md"
     },
     {
       "basename": "2023-11-03",
       "path": "2023-11-03.md"
+    },
+    {
+      "basename": "Drawing 2023-11-01 13.11.01.excalidraw",
+      "path": "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md"
     },
     {
       "basename": "Here is all you need to know about File Descriptors in linux",
@@ -49,10 +93,6 @@
       "path": "Overlapping.md"
     },
     {
-      "basename": "STATIC LIBRARY VC DYNAMIC LIBRARY",
-      "path": "STATIC LIBRARY VC DYNAMIC LIBRARY.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -65,16 +105,8 @@
       "path": "Fragmentation.md"
     },
     {
-      "basename": "Drawing 2023-11-03 19.09.05.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md"
-    },
-    {
       "basename": "Drawing 2023-11-02 19.10.59.excalidraw",
       "path": "Excalidraw/Drawing 2023-11-02 19.10.59.excalidraw.md"
-    },
-    {
-      "basename": "github_cmd",
-      "path": "0__0__Cursus/github_cmd.md"
     }
   ],
   "omittedPaths": [],

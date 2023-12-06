@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84371611a5d96838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "62bbd493ec0b1125",
             "type": "leaf",
             "state": {
@@ -28,16 +16,6 @@
                 "file": "2023-11-03.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "52e300e165a95ac1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md"
               }
             }
           },
@@ -54,39 +32,99 @@
             }
           },
           {
-            "id": "eb130ca873b09067",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "16ffcfb0d94975e8",
+            "id": "c6bc24bd6c8bd150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-14.md",
+                "file": "variadic function.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f766054e8c44e75f",
+            "id": "a7c9df8dd4310d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github_cmd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d477993a27dd0642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TYPE CASTING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6254e98f835ac385",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f4577fd21e81ac4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a4b93842a8b9375",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mmemory Layout.md"
+              }
+            }
+          },
+          {
+            "id": "725b7266d06d1022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MY DICTIONARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "373466571689fb50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WHAT is UNICODE ?.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -115,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#zer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md",
+                "file": "2023-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md",
+                "file": "2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md"
+                "file": "2023-12-06.md"
               }
             }
           },
@@ -249,8 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,12 +303,25 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "eb130ca873b09067",
+  "active": "f4577fd21e81ac4c",
   "lastOpenFiles": [
-    "0__0__Cursus/42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
-    "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md",
-    "2023-11-03.md",
+    "Excalidraw/Drawing 2023-12-05 18.36.44.excalidraw.md",
+    "2023-12-06.md",
+    "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md",
     "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md",
+    "variadic function.md",
+    "Excalidraw/Mmemory Layout.md",
+    "Memory Layout of a C Program.md",
+    "TYPE CASTING.md",
+    "github_cmd.md",
+    "STATIC LIBRARY VC DYNAMIC LIBRARY.md",
+    "MAKEFILES.md",
+    "WHAT is UNICODE ?.md",
+    "0__0__Cursus/42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+    "MY DICTIONARY.md",
+    "Pasted image 20231204123335.png",
+    "2023-11-03.md",
+    "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md",
     "Here is all you need to know about File Descriptors in linux.md",
     "DEFERENCE BETWEEN 0 && NULL.md",
     "2023-11-02.md",
@@ -280,13 +330,8 @@
     "2023-11-14.md",
     "2023-11-05.md",
     "Overlapping.md",
-    "STATIC LIBRARY VC DYNAMIC LIBRARY.md",
     "README.md",
     "0__0__Cursus/42Cursus/c/Why linked list doesn't waste memory space.md",
-    "Fragmentation.md",
-    "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-02 19.10.59.excalidraw.md",
-    "0__0__Cursus/github_cmd.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Excalidraw",
