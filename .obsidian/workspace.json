@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0__0__Cursus/42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
+                "file": "LINKED LIST FUNDAMENTALS.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,9 +81,63 @@
             "id": "f4577fd21e81ac4c",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mmemory Layout.md"
+              }
+            }
+          },
+          {
+            "id": "5c0d14250851c2f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mmemory Layout.md"
+              }
+            }
+          },
+          {
+            "id": "8f1b5a18bd9790e3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-09 19.38.43.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "420eead0fd2e9747",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-06.md",
+                "file": "2023-11-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2af9efa4383ad013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debian vc rocky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e520ab7d6f23b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SERVERS && OS.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -153,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#c MEM ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-06.md",
+                "file": "SERVERS && OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-06.md",
+                "file": "SERVERS && OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-06.md"
+                "file": "SERVERS && OS.md"
               }
             }
           },
@@ -303,38 +357,38 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f4577fd21e81ac4c",
+  "active": "6e520ab7d6f23b05",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-05 18.36.44.excalidraw.md",
-    "2023-12-06.md",
-    "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md",
-    "variadic function.md",
-    "Excalidraw/Mmemory Layout.md",
-    "Memory Layout of a C Program.md",
-    "TYPE CASTING.md",
-    "github_cmd.md",
-    "STATIC LIBRARY VC DYNAMIC LIBRARY.md",
-    "MAKEFILES.md",
-    "WHAT is UNICODE ?.md",
-    "0__0__Cursus/42Cursus/c/Linkesd list/LINKED LIST FUNDAMENTALS.md",
-    "MY DICTIONARY.md",
-    "Pasted image 20231204123335.png",
-    "2023-11-03.md",
-    "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md",
-    "Here is all you need to know about File Descriptors in linux.md",
-    "DEFERENCE BETWEEN 0 && NULL.md",
-    "2023-11-02.md",
+    "Debian vc rocky.md",
+    "SERVERS && OS.md",
     "2023-11-01.md",
-    "2023-10-31.md",
+    "Untitled Kanban.md",
+    "Untitled",
+    "2023-12-12.md",
+    "to do list (PROJECTS).md",
+    "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md",
+    "2023-11-03.md",
+    "Excalidraw/Drawing 2023-12-09 19.43.41.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-05 18.36.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-09 10.11.15.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-09 19.38.43.excalidraw.md",
+    "Excalidraw/Mmemory Layout.md",
     "2023-11-14.md",
     "2023-11-05.md",
-    "Overlapping.md",
-    "README.md",
-    "0__0__Cursus/42Cursus/c/Why linked list doesn't waste memory space.md",
+    "2023-11-02.md",
+    "DEFERENCE BETWEEN 0 && NULL.md",
+    "TYPE CASTING.md",
+    "variadic function.md",
+    "2023-10-31.md",
+    "WHAT is UNICODE ?.md",
+    "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md",
+    "2023-12-09.md",
+    "2023-12-06.md",
+    "Memory Layout of a C Program.md",
+    "Pasted image 20231204123335.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Excalidraw",
-    "Untitled"
+    "Excalidraw"
   ]
 }

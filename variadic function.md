@@ -41,13 +41,13 @@ typedef struct {
 
 The `va_start` macro initializes the structure as follows:
 
-`reg_save_area` The element points to the start of the register save area.
+<mark style="background: #FFB8EBA6;">`reg_save_area`</mark> The element points to the start of the register save area.
 
-`overﬂow_arg_area` This pointer is used to fetch arguments passed on the stack. It is initialized with the address of the first argument passed on the stack, if any, and then always updated to point to the start of the next argument on the stack.
+<mark style="background: #FFB8EBA6;">`overﬂow_arg_area`</mark> This pointer is used to fetch arguments passed on the stack. It is initialized with the address of the first argument passed on the stack, if any, and then always updated to point to the start of the next argument on the stack.
 
-`gp_offset` The element holds the offset in bytes from `reg_save_area` to the place where the next available general purpose argument register is saved. In case all argument registers have been exhausted, it is set to the value 48 (6 * 8).
+<mark style="background: #FFB8EBA6;">`gp_offset` </mark>The element<mark style="background: #FFB86CA6;"> holds the offset in bytes from `reg_save_area` to the place where the next available general purpose argument register is save</mark>d. In case all argument registers have been exhausted, it is set to the value 48 (6 * 8).
 
-`fp_offset` The element holds the offset in bytes from `reg_save_area` to the place where the next available floating point argument register is saved. In case all argument registers have been exhausted, it is set to the value 304 (6 * 8 + 16 * 16).
+<mark style="background: #FFB8EBA6;">`fp_offset`</mark> The element holds the offset in bytes from `reg_save_area` to the place <mark style="background: #FFF3A3A6;">where the next available floating point argument register is saved</mark>. In case all argument registers have been exhausted, it is set to the value 304 (6 * 8 + 16 * 16).
 
 ## Quick  information  About Registers (Keyword)
 
@@ -80,15 +80,15 @@ Macro: _type_ **va_arg** _(va_list ap, type)_[](https://www.gnu.org/softwar
 
 Preliminary: | MT-Safe race:ap | AS-Safe | AC-Unsafe corrupt | See [POSIX Safety Concepts](https://www.gnu.org/software/libc/manual/html_node/POSIX-Safety-Concepts.html).
 
-The <mark style="background: #FFB86CA6;">`va_arg`</mark> macro returns the value of the next optional argument, and modifies the value of ap to point to the subsequent argument. Thus, successive uses of `va_arg` return successive optional arguments.
+The <mark style="background: #FFB86CA6;">`va_arg`</mark> macro <mark style="background: #FFB8EBA6;">returns the value of the next optional argument, and modifies the value of ap to point to the subsequent argument</mark>. Thus, successive uses of `va_arg` return successive optional arguments.
 
-The type of the value returned by `va_arg` is type as specified in the call. type must be a self-promoting type (not `char` or `short int` or `float`) that matches the type of the actual argument.
+The type of the value returned by `va_arg` is type as specified in the call. type must be a self-promoting type (<mark style="background: #FFF3A3A6;">not `char` or `short int` or `float`</mark>) that matches the type of the actual argument.
 
 Macro: _void_ <mark style="background: #FFB86CA6;">va_end</mark>** _(va_list ap)_[](https://www.gnu.org/software/libc/manual/html_node/Argument-Macros.html#index-va_005fend)
 
 Preliminary: | MT-Safe | AS-Safe | AC-Safe | See [POSIX Safety Concepts](https://www.gnu.org/software/libc/manual/html_node/POSIX-Safety-Concepts.html).
 
-This ends the use of ap. After a `va_end` call, further `va_arg` calls with the same ap may not work. You should invoke `va_end` before returning from the function in which `va_start` was invoked with the same ap argument.
+<mark style="background: #FFF3A3A6;">This ends the use of ap</mark>. After a `va_end` call, further `va_arg` calls with the same ap may not work. You should invoke <mark style="background: #FFB86CA6;">`va_end` before returning from the function in which `va_start` was invoked with the same ap argume</mark>nt.
 
 In the GNU C Library, `va_end` does nothing, and you need not ever use it except for reasons of portability.
 

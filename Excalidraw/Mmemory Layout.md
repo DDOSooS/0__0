@@ -120,7 +120,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "XlGnAfXGfcsY8PsrRyAKn",
 			"originalText": "KERNEL SPACE",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -191,7 +191,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "qROk1wE9kB57hx0hMUN7w",
 			"originalText": "STACK",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -266,12 +266,12 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "te4_IqaR-ZAZSSjUQt8F3",
 			"originalText": "Memory mapping segment ",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
-			"version": 324,
-			"versionNonce": 760627068,
+			"version": 331,
+			"versionNonce": 1466058850,
 			"isDeleted": false,
 			"id": "zEOmYxaAF2yjmfDjjeKx1",
 			"fillStyle": "solid",
@@ -280,8 +280,8 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -202.02618408203125,
-			"y": -158.27246856689453,
+			"x": -203.4877225435697,
+			"y": -157.27246856689453,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#b2f2bb",
 			"width": 410.13470458984375,
@@ -298,14 +298,14 @@ also known as a code segment or simply as text, is one of the sections of a prog
 					"id": "1A44JzA9"
 				}
 			],
-			"updated": 1701793394825,
+			"updated": 1702112826812,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 701269572,
+			"version": 300,
+			"versionNonce": 1853811746,
 			"isDeleted": false,
 			"id": "1A44JzA9",
 			"fillStyle": "solid",
@@ -314,8 +314,8 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -19.538803100585938,
-			"y": -104.51993560791016,
+			"x": -21.00034156212439,
+			"y": -103.51993560791016,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 45.159942626953125,
@@ -325,7 +325,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701793394825,
+			"updated": 1702112826812,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -337,7 +337,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "zEOmYxaAF2yjmfDjjeKx1",
 			"originalText": "Heap",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -408,7 +408,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "4nWhBPb1heGByXDHss-Qy",
 			"originalText": "BSS Segment\nunintialized static variable,filled with zeroz golobal vars",
 			"lineHeight": 1.25,
-			"baseline": 66
+			"baseline": 68
 		},
 		{
 			"type": "rectangle",
@@ -483,7 +483,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "PEgVOMS_oxznZHhTQ9VSO",
 			"originalText": "DATA Segment\nStatic variable initialize by programmer",
 			"lineHeight": 1.25,
-			"baseline": 41
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -554,7 +554,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "dXKINX50zK-Pz58T44vUa",
 			"originalText": "TEXT Segment\n",
 			"lineHeight": 1.25,
-			"baseline": 41
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -608,8 +608,8 @@ also known as a code segment or simply as text, is one of the sections of a prog
 		},
 		{
 			"type": "arrow",
-			"version": 925,
-			"versionNonce": 1063685060,
+			"version": 927,
+			"versionNonce": 165038150,
 			"isDeleted": false,
 			"id": "N6rflVyLrYKTwZtrAsuRC",
 			"fillStyle": "solid",
@@ -631,7 +631,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701796696138,
+			"updated": 1702147200285,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -735,12 +735,12 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "epW3UDxOFQQkB47YcnUC-",
 			"originalText": "Initialized data segment, usually called simply the Data Segment.\n A data segment is a portion of the virtual address space of a program, which contains the global variables and static variables that are initialized by the programmer.",
 			"lineHeight": 1.25,
-			"baseline": 116
+			"baseline": 118
 		},
 		{
 			"type": "arrow",
-			"version": 206,
-			"versionNonce": 331238724,
+			"version": 210,
+			"versionNonce": 994293126,
 			"isDeleted": false,
 			"id": "ApplD4G-ytA_CUwoedDdc",
 			"fillStyle": "solid",
@@ -762,7 +762,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701796690851,
+			"updated": 1702147200264,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -795,8 +795,8 @@ also known as a code segment or simply as text, is one of the sections of a prog
 		},
 		{
 			"type": "rectangle",
-			"version": 254,
-			"versionNonce": 90145276,
+			"version": 255,
+			"versionNonce": 1094868102,
 			"isDeleted": false,
 			"id": "-yfdk8sMQ2eJrVkCiSSn_",
 			"fillStyle": "solid",
@@ -806,7 +806,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"opacity": 100,
 			"angle": 0,
 			"x": -774.3944082821124,
-			"y": -136.5181339660919,
+			"y": -134.97967242763036,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 358.8678741455079,
@@ -827,14 +827,14 @@ also known as a code segment or simply as text, is one of the sections of a prog
 					"type": "arrow"
 				}
 			],
-			"updated": 1701796689951,
+			"updated": 1702147206296,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 278,
-			"versionNonce": 1184227964,
+			"version": 279,
+			"versionNonce": 1393613766,
 			"isDeleted": false,
 			"id": "kwbi8kig",
 			"fillStyle": "solid",
@@ -844,7 +844,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"opacity": 100,
 			"angle": 0,
 			"x": -768.1602545345538,
-			"y": -131.5181339660919,
+			"y": -129.97967242763036,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 346.3995666503906,
@@ -854,7 +854,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701796689951,
+			"updated": 1702147206296,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -866,12 +866,12 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "-yfdk8sMQ2eJrVkCiSSn_",
 			"originalText": "Data in this segment is initialized by the kernel to arithmetic 0 before the program starts executing uninitialized data starts at the end of the data segment ",
 			"lineHeight": 1.25,
-			"baseline": 116
+			"baseline": 118
 		},
 		{
 			"type": "arrow",
-			"version": 119,
-			"versionNonce": 293594492,
+			"version": 122,
+			"versionNonce": 2102227718,
 			"isDeleted": false,
 			"id": "1m5UeD-HWyaJSVFaLH35w",
 			"fillStyle": "solid",
@@ -881,11 +881,11 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"opacity": 100,
 			"angle": 0,
 			"x": -408.11011317556677,
-			"y": -20.872807928932826,
+			"y": -20.316121812961903,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 205.7244873046875,
-			"height": 64.15728000751345,
+			"height": 63.60059389154253,
 			"seed": 2141159164,
 			"groupIds": [],
 			"frameId": null,
@@ -893,13 +893,13 @@ also known as a code segment or simply as text, is one of the sections of a prog
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701796694039,
+			"updated": 1702147206296,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "-yfdk8sMQ2eJrVkCiSSn_",
-				"focus": -0.6795205476040929,
-				"gap": 7.4164209610377725
+				"gap": 7.4164209610377725,
+				"focus": -0.6795205476040929
 			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -912,11 +912,11 @@ also known as a code segment or simply as text, is one of the sections of a prog
 				],
 				[
 					36.81166950800349,
-					53.307212652418215
+					52.750526536447296
 				],
 				[
 					205.7244873046875,
-					64.15728000751345
+					63.60059389154253
 				]
 			]
 		},
@@ -993,12 +993,12 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "iyNSsWTcc_TcxPFyXeXWD",
 			"originalText": " the segment where dynamic memory allocation usually takes place.\nThe heap area begins at the end of the BSS segment and grows to larger addresses from there. The Heap area is managed by malloc, realloc, and free, which may use the brk and sbrk system calls to adjust its size ",
 			"lineHeight": 1.25,
-			"baseline": 166
+			"baseline": 168
 		},
 		{
 			"type": "arrow",
-			"version": 264,
-			"versionNonce": 1370934340,
+			"version": 266,
+			"versionNonce": 663522310,
 			"isDeleted": false,
 			"id": "qN5dVgl4BUmrDV_m-SbCd",
 			"fillStyle": "solid",
@@ -1020,7 +1020,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701796690853,
+			"updated": 1702147200275,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1124,12 +1124,12 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "nFeahRXGaArrcd3S-N7aq",
 			"originalText": "Memory mapping is a powerful mechanism for handling large datasets efficiently, sharing data between processes, and providing a convenient interface for file I/O operations. However, proper synchronization mechanisms",
 			"lineHeight": 1.25,
-			"baseline": 141
+			"baseline": 143
 		},
 		{
 			"type": "arrow",
-			"version": 415,
-			"versionNonce": 1547690308,
+			"version": 417,
+			"versionNonce": 1600723782,
 			"isDeleted": false,
 			"id": "bNoUi9Gi7rU7woIYqtZg4",
 			"fillStyle": "solid",
@@ -1138,11 +1138,11 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -388.04244776376794,
+			"x": -388.0424477637679,
 			"y": -301.19314684123356,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 168.1058388107894,
+			"width": 168.10583881078935,
 			"height": 81.63822520645874,
 			"seed": 70319612,
 			"groupIds": [],
@@ -1151,13 +1151,13 @@ also known as a code segment or simply as text, is one of the sections of a prog
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701796724984,
+			"updated": 1702147200278,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "nFeahRXGaArrcd3S-N7aq",
-				"focus": -0.805201170300603,
-				"gap": 5.587076838697925
+				"gap": 5.587076838697925,
+				"focus": -0.805201170300603
 			},
 			"endBinding": {
 				"elementId": "uj8dyQ6x8PKVAGdFt0FXR",
@@ -1173,11 +1173,11 @@ also known as a code segment or simply as text, is one of the sections of a prog
 					0
 				],
 				[
-					41.99374111634489,
+					41.993741116344836,
 					69.71492105882578
 				],
 				[
-					168.1058388107894,
+					168.10583881078935,
 					81.63822520645874
 				]
 			]
@@ -1255,12 +1255,12 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "fqk2CMsurv9XMWpFUP5nj",
 			"originalText": "The stack is a fundamental part of the memory architecture in most programming languages, providing a mechanism for efficient function calls, local variable storage, and managing the flow of control in a program its structure follows the Last In, First Out (LIFO) principle",
 			"lineHeight": 1.25,
-			"baseline": 141
+			"baseline": 143
 		},
 		{
 			"type": "arrow",
-			"version": 81,
-			"versionNonce": 1830593476,
+			"version": 83,
+			"versionNonce": 1668399750,
 			"isDeleted": false,
 			"id": "jakhTFi4jQQSKTtMdd2uH",
 			"fillStyle": "solid",
@@ -1282,7 +1282,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701796690859,
+			"updated": 1702147200280,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1386,12 +1386,12 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "0CyOxnfYKjzZC7QH0P3ct",
 			"originalText": "The kernel space is the privileged area of memory where the operating system's kernel resides.\nIt contains the core components of the operating system, including the kernel code, device drivers, and essential data structures.\nAccess to the kernel space is restricted and requires special privileges. Typically, only the kernel and kernel-level drivers can execute code and access data in this space.",
 			"lineHeight": 1.25,
-			"baseline": 216
+			"baseline": 218
 		},
 		{
 			"type": "arrow",
-			"version": 155,
-			"versionNonce": 1397850820,
+			"version": 159,
+			"versionNonce": 995842310,
 			"isDeleted": false,
 			"id": "QKQk1jSrJFJUsSRxjam2s",
 			"fillStyle": "solid",
@@ -1400,12 +1400,12 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2.776607466726162,
+			"x": -2.7988610023193203,
 			"y": -543.4913601617425,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 3.9110903764464444,
-			"height": 65.99098389051335,
+			"width": 3.914597969736303,
+			"height": 65.99098389051346,
 			"seed": 1795624700,
 			"groupIds": [],
 			"frameId": null,
@@ -1413,7 +1413,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701796690860,
+			"updated": 1702147200282,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1435,8 +1435,8 @@ also known as a code segment or simply as text, is one of the sections of a prog
 					0
 				],
 				[
-					3.9110903764464444,
-					65.99098389051335
+					3.914597969736303,
+					65.99098389051346
 				]
 			]
 		},
@@ -1513,7 +1513,7 @@ also known as a code segment or simply as text, is one of the sections of a prog
 			"containerId": "RYqlj2-hfkC7oOX7ktecE",
 			"originalText": "also known as a code segment or simply as text, is one of the sections of a program in an object file or in memory, which contains executable instructions",
 			"lineHeight": 1.25,
-			"baseline": 116
+			"baseline": 118
 		}
 	],
 	"appState": {
@@ -1531,10 +1531,10 @@ also known as a code segment or simply as text, is one of the sections of a prog
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1224.059236721646,
-		"scrollY": 1749.6761495801557,
+		"scrollX": 920.162924244896,
+		"scrollY": 985.2106858198212,
 		"zoom": {
-			"value": 0.4622675815785539
+			"value": 0.65
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
