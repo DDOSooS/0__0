@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "UNIX PROCESS C",
+      "path": "UNIX PROCESS C.md"
+    },
+    {
+      "basename": "Communication Between Processes",
+      "path": "Communication Between Processes.md"
+    },
+    {
+      "basename": "Project planing",
+      "path": "Project planing.md"
+    },
+    {
+      "basename": "MY DICTIONARY",
+      "path": "MY DICTIONARY.md"
+    },
+    {
+      "basename": "2023-11-03",
+      "path": "2023-11-03.md"
+    },
+    {
+      "basename": "Mmemory Layout",
+      "path": "Excalidraw/Mmemory Layout.md"
+    },
+    {
+      "basename": "Apt vc Aptitude",
+      "path": "Apt vc Aptitude.md"
+    },
+    {
+      "basename": "Drawing 2024-01-14 16.05.39.excalidraw",
+      "path": "Excalidraw/Drawing 2024-01-14 16.05.39.excalidraw.md"
+    },
+    {
+      "basename": "variadic function",
+      "path": "variadic function.md"
+    },
+    {
+      "basename": "Drawing 2023-11-02 19.10.59.excalidraw",
+      "path": "Excalidraw/Drawing 2023-11-02 19.10.59.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-12-09 10.11.15.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-09 10.11.15.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-12-05 18.36.44.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-05 18.36.44.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-12-09 19.43.41.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-09 19.43.41.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-11-01 13.11.01.excalidraw",
+      "path": "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-11-03 19.09.05.excalidraw",
+      "path": "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md"
+    },
+    {
+      "basename": "DEFERENCE BETWEEN 0 && NULL",
+      "path": "DEFERENCE BETWEEN 0 && NULL.md"
+    },
+    {
+      "basename": "2023-11-02",
+      "path": "2023-11-02.md"
+    },
+    {
+      "basename": "Drawing 2024-01-14 13.38.09.excalidraw",
+      "path": "Excalidraw/Drawing 2024-01-14 13.38.09.excalidraw.md"
+    },
+    {
       "basename": "SELINUX && APPARMOR",
       "path": "SELINUX && APPARMOR.md"
     },
@@ -11,10 +83,6 @@
     {
       "basename": "STATIC LIBRARY VC DYNAMIC LIBRARY",
       "path": "STATIC LIBRARY VC DYNAMIC LIBRARY.md"
-    },
-    {
-      "basename": "Project planing",
-      "path": "Project planing.md"
     },
     {
       "basename": "README",
@@ -29,10 +97,6 @@
       "path": "SSH && SECURE SHELL.md"
     },
     {
-      "basename": "Apt vc Aptitude",
-      "path": "Apt vc Aptitude.md"
-    },
-    {
       "basename": "Debian vc rocky",
       "path": "Debian vc rocky.md"
     },
@@ -43,18 +107,6 @@
     {
       "basename": "2023-11-01",
       "path": "2023-11-01.md"
-    },
-    {
-      "basename": "2023-11-02",
-      "path": "2023-11-02.md"
-    },
-    {
-      "basename": "2023-11-03",
-      "path": "2023-11-03.md"
-    },
-    {
-      "basename": "2023-11-05",
-      "path": "2023-11-05.md"
     },
     {
       "basename": "2023-11-14",
@@ -73,10 +125,6 @@
       "path": "2023-12-15.md"
     },
     {
-      "basename": "variadic function",
-      "path": "variadic function.md"
-    },
-    {
       "basename": "Virtualization && why VM",
       "path": "Virtualization && why VM.md"
     },
@@ -91,14 +139,6 @@
     {
       "basename": "Pasted image 20231204123335",
       "path": "Pasted image 20231204123335.png"
-    },
-    {
-      "basename": "Mmemory Layout",
-      "path": "Excalidraw/Mmemory Layout.md"
-    },
-    {
-      "basename": "MY DICTIONARY",
-      "path": "MY DICTIONARY.md"
     },
     {
       "basename": "Overlapping",
@@ -117,10 +157,6 @@
       "path": "Excalidraw/Drawing 2023-12-09 19.38.43.excalidraw.md"
     },
     {
-      "basename": "Drawing 2023-11-01 13.11.01.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md"
-    },
-    {
       "basename": "LINKED LIST FUNDAMENTALS",
       "path": "LINKED LIST FUNDAMENTALS.md"
     },
@@ -133,26 +169,6 @@
       "path": "Excalidraw/Drawing 2023-11-21 10.21.29.excalidraw.md"
     },
     {
-      "basename": "Drawing 2023-12-09 19.43.41.excalidraw",
-      "path": "Excalidraw/Drawing 2023-12-09 19.43.41.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-11-03 19.09.05.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-12-05 18.36.44.excalidraw",
-      "path": "Excalidraw/Drawing 2023-12-05 18.36.44.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-12-09 10.11.15.excalidraw",
-      "path": "Excalidraw/Drawing 2023-12-09 10.11.15.excalidraw.md"
-    },
-    {
-      "basename": "DEFERENCE BETWEEN 0 && NULL",
-      "path": "DEFERENCE BETWEEN 0 && NULL.md"
-    },
-    {
       "basename": "github_cmd",
       "path": "github_cmd.md"
     },
@@ -163,10 +179,6 @@
     {
       "basename": "Fragmentation",
       "path": "Fragmentation.md"
-    },
-    {
-      "basename": "Drawing 2023-11-02 19.10.59.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-02 19.10.59.excalidraw.md"
     }
   ],
   "omittedPaths": [],
