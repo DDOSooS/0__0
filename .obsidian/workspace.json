@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIX PROCESS C.md",
+                "file": "Communication Between Processes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIX PROCESS C.md",
+                "file": "Communication Between Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIX PROCESS C.md",
+                "file": "Communication Between Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIX PROCESS C.md"
+                "file": "Communication Between Processes.md"
               }
             }
           },
@@ -213,14 +213,14 @@
   },
   "active": "bd161f276da6976d",
   "lastOpenFiles": [
-    "Communication Between Processes.md",
+    "Excalidraw/Drawing 2024-01-14 16.05.39.excalidraw.md",
     "UNIX PROCESS C.md",
+    "Communication Between Processes.md",
     "Project planing.md",
     "MY DICTIONARY.md",
     "2023-11-03.md",
     "Excalidraw/Mmemory Layout.md",
     "Apt vc Aptitude.md",
-    "Excalidraw/Drawing 2024-01-14 16.05.39.excalidraw.md",
     "variadic function.md",
     "Excalidraw/Drawing 2023-11-02 19.10.59.excalidraw.md",
     "Excalidraw/Drawing 2023-12-09 10.11.15.excalidraw.md",
