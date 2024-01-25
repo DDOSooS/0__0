@@ -74,7 +74,7 @@ command > outputfile
 
 We can terminate a process using the _kill_ (1) command. Let's say that we start a new xterm by executing the command
 
-also you can see [[Communication Between Processes]]
+also you can see [[Communication Between Processes]] and [[2024-01-25]]
 
 
 **REF:

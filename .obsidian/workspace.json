@@ -23,15 +23,12 @@
             "id": "821e32394dc501b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Communication Between Processes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communication Between Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communication Between Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Communication Between Processes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,27 +203,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd161f276da6976d",
+  "active": "821e32394dc501b9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-14 16.05.39.excalidraw.md",
     "UNIX PROCESS C.md",
     "Communication Between Processes.md",
-    "Project planing.md",
-    "MY DICTIONARY.md",
-    "2023-11-03.md",
-    "Excalidraw/Mmemory Layout.md",
-    "Apt vc Aptitude.md",
-    "variadic function.md",
-    "Excalidraw/Drawing 2023-11-02 19.10.59.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-09 10.11.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-05 18.36.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-09 19.43.41.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-01 13.11.01.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-03 19.09.05.excalidraw.md",
-    "DEFERENCE BETWEEN 0 && NULL.md",
-    "2023-11-02.md",
-    "Excalidraw/Drawing 2024-01-14 13.38.09.excalidraw.md",
+    "2024-01-25.md",
+    "README.md",
     "SELINUX && APPARMOR.md",
+    "SERVERS && OS.md",
+    "SSH && SECURE SHELL.md",
+    "STATIC LIBRARY VC DYNAMIC LIBRARY.md",
+    "TYPE CASTING.md",
+    "Virtualization && why VM.md",
+    "WHAT is UNICODE ?.md",
+    "Why linked list doesn't waste memory space.md",
+    "github_cmd.md",
+    "variadic function.md",
+    "Overlapping.md",
+    "MAKEFILES.md",
+    "LINKED LIST FUNDAMENTALS.md",
+    "Fragmentation.md",
+    "FIREWALL.md",
+    "Apt vc Aptitude.md",
+    "DEFERENCE BETWEEN 0 && NULL.md",
+    "Project planing.md",
+    "Port Forwarding.md",
+    "Pasted image 20231204123335.png",
+    "MY DICTIONARY.md",
+    "Here is all you need to know about File Descriptors in linux.md",
+    "Excalidraw/Drawing 2023-12-09 10.11.15.excalidraw.md",
     "E-/webpack.mix.js",
     "E-/tests/Unit/ExampleTest.php",
     "E-/tests/Feature/ExampleTest.php",
@@ -251,14 +251,6 @@
     "E-/public/assets/plugins/flag-icon-css/flags/4x3/zw.svg",
     "E-/public/assets/plugins/flag-icon-css/flags/4x3/zm.svg",
     "E-/public/assets/plugins/flag-icon-css/flags/4x3/za.svg",
-    "E-/public/assets/plugins/flag-icon-css/flags/4x3/yt.svg",
-    "E-/public/assets/plugins/tinymce/README.md",
-    "E-/public/assets/plugins/owl-carousel/README.md",
-    "E-/public/assets/plugins/jquery.flot/README.md",
-    "E-/public/assets/plugins/jquery.flot/PLUGINS.md",
-    "E-/public/assets/plugins/jquery.flot/NEWS.md",
-    "E-/public/assets/plugins/jquery.flot/FAQ.md",
-    "E-/public/assets/plugins/jquery.flot/CONTRIBUTING.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
