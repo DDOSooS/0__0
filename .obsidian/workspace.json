@@ -26,9 +26,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0df91dfc96434d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deadlocks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deadlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deadlocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deadlocks.md"
+              }
             }
           },
           {
@@ -203,9 +219,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "821e32394dc501b9",
+  "active": "0df91dfc96434d54",
   "lastOpenFiles": [
     "UNIX PROCESS C.md",
+    "Deadlocks.md",
     "Communication Between Processes.md",
     "2024-01-25.md",
     "README.md",
@@ -231,7 +248,6 @@
     "Pasted image 20231204123335.png",
     "MY DICTIONARY.md",
     "Here is all you need to know about File Descriptors in linux.md",
-    "Excalidraw/Drawing 2023-12-09 10.11.15.excalidraw.md",
     "E-/webpack.mix.js",
     "E-/tests/Unit/ExampleTest.php",
     "E-/tests/Feature/ExampleTest.php",
